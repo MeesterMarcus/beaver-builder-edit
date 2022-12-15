@@ -1,7 +1,7 @@
 # Beaver Builder Edit Mode Launcher
 
 ## Description
-### This very simple chrome extension will launch the current page you are on into Beaver Builder edit mode.
+This very simple chrome extension will launch the current page you are on into Beaver Builder edit mode.
 
 ## Install Instructions
 1. Download this repo
