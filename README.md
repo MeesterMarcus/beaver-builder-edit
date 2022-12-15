@@ -1,7 +1,7 @@
 # Beaver Builder Edit Mode Launcher
 
 ## Description
-This very simple chrome extension will launch the current page you are on into Beaver Builder edit mode.
+This very simple chrome extension will launch the current page you are on into Beaver Builder edit mode. Particularly useful for example, if you do not have the WP admin bar displaying on the top of the page.
 
 ## Install Instructions
 1. Download this repo
