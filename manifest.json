@@ -1,13 +1,17 @@
 {
   "manifest_version": 3,
-  "name": "Git Diff Check",
-  "description": "Base Level Extension",
+  "name": "Launch In Beaver Builder",
+  "description": "A simple extension that will edit current page in Beaver Builder",
   "version": "1.0",
   "action": {
-    "default_popup": "hello.html",
-    "default_icon": "gitlogo.png"
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
   },
   "permissions": [
-   "activeTab"
+   "activeTab",
+   "scripting",
+   "tabs"
   ]
 }
