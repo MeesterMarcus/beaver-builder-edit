@@ -14,4 +14,4 @@ This very simple chrome extension will launch the current page you are on into B
 ## How to use
 1. Login as admin to your WP site
 2. Navigate to the page you want to edit
-3. Click the extension button to launch into Beaver Builder
+3. Click the extension button to launch into Beaver Builder edit mode
